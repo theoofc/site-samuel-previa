@@ -1,0 +1,6 @@
+{
+  "name": "Treinamento de Elite",
+  "description": "Treinamento de elite para barbeiros. Especializações avançadas em visagismo, degrades perfeitos, desenhos artísticos (hair tattoo) e posicionamento de luxo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
